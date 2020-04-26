@@ -5,6 +5,8 @@ I copy the figures from the site daily and the charts are provided on an as-is b
 
 For R code and graphs, please see <a href="https://twitter.com/jepoirrier">jepoirrier's</a> repo here: https://github.com/jepoirrier/MD-coronavirus 
 
+I post updated charts to Twitter as well: https://twitter.com/TylerFogarty7
+
 Shoutouts to all the people that have helped/inspried me with this effort including but not limited to:
 https://twitter.com/jepoirrier <br>
 https://twitter.com/maschweisguth <br>
