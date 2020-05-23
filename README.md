@@ -15,3 +15,18 @@ https://twitter.com/maschweisguth <br>
 https://twitter.com/JauquetW <br>
 https://twitter.com/AdkinsDebtDiet <br>
 https://twitter.com/eckmanjeremy <br>
+
+Maryland data visualizations using the Flourish data viz tool are here (you can copy/edit/remix by clicking the Duplicate button in the upper right): <br>
+<li>Region & County Sunburst Graph:https://public.flourish.studio/visualisation/2432104/ </li>
+<li>County Bar Chart Race: https://public.flourish.studio/visualisation/2427697/ </li>
+<li>ZIP Code Treemap Explorer: https://public.flourish.studio/visualisation/2451992/ </li>
+<li>ZIP Code Treemap by Per Capita Explorer: https://public.flourish.studio/visualisation/2461642/</li>
+<li>Cumulative Cases by County Line Graph: https://public.flourish.studio/visualisation/2452290/ </li>
+<li>Cases by Race and Ethnicity Bar Chart: https://public.flourish.studio/visualisation/2486092/ </li>
+<li>Animated Bar Chart with Race and Ethnicity Cases: https://public.flourish.studio/visualisation/2486092/ </li>
+<li>Maryland Cases by Age Range: https://public.flourish.studio/visualisation/2500935/ </li>
+<li>New Daily Cases Per County in Maryland: https://public.flourish.studio/visualisation/2501663/ </li>
+<li>7 Day Moving Average of Daily Cases Per County: https://public.flourish.studio/visualisation/2504191/ </li>
+<li>Sunburst of Number of Deaths by Residents at Nursing Homes, Assisted Living, and Group Homes : https://public.flourish.studio/visualisation/2522517/ </li> 
+
+
