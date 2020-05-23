@@ -27,5 +27,6 @@ Maryland data visualizations using the Flourish data viz tool are here (you can 
 <li>Maryland Cases by Age Range: https://public.flourish.studio/visualisation/2500935/ </li>
 <li>New Daily Cases Per County in Maryland: https://public.flourish.studio/visualisation/2501663/ </li>
 <li>7 Day Moving Average of Daily Cases Per County: https://public.flourish.studio/visualisation/2504191/ </li>
+<li>Sunburst of Number of Deaths by Residents at Nursing Homes, Assisted Living, and Group Homes : https://public.flourish.studio/visualisation/2522517/ </li> 
 
 
