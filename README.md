@@ -9,10 +9,13 @@ For R code and graphs, please see <a href="https://twitter.com/jepoirrier">jepoi
 
 I post updated charts to Twitter as well: https://twitter.com/TylerFogarty7
 
-Shoutouts to all the people that have helped/inspried me with this effort including but not limited to:
+Shoutouts to all the people that have helped/inspried me with this effort including but not limited to (in no order):
 https://twitter.com/jepoirrier <br>
+https://twitter.com/a_konstorum <br>
+https://twitter.com/somethoughtreq <br>
 https://twitter.com/maschweisguth <br>
 https://twitter.com/JauquetW <br>
+https://twitter.com/MikeBReporter<br>
 https://twitter.com/AdkinsDebtDiet <br>
 https://twitter.com/eckmanjeremy <br>
 
